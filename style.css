@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #161617; /* header #26282b */
                                /* text #c9cccf */
@@ -54,7 +58,7 @@ body {
   color: white;
   font-size: 15px;
   font-family: 'Open Sans', sans-serif;
-  padding: 10px 40px 10px 40px;
+  padding: 10px 35px 10px 35px;
   cursor: pointer;
   border-radius: 7px;
 }
