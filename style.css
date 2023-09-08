@@ -50,6 +50,10 @@ body {
   text-transform: uppercase;
 }
 
+.header_links-item-link:hover {
+  color: #999a9c;
+}
+
 .button {
   box-sizing: border-box;
   text-decoration: none;
@@ -61,6 +65,10 @@ body {
   padding: 10px 35px 10px 35px;
   cursor: pointer;
   border-radius: 7px;
+}
+
+.button:hover {
+  background-color: #6591d3;
 }
 
 .about-flex {
